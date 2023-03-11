@@ -1,7 +1,6 @@
 # WeatherPy
-## Summary
-* A homework assignment for UC Berkeley's Data Analytics Bootcamp
-* The Python code randomly selects a group of 500+ cities across the world. Then, the code collects data from the OpenWeatherMap API to create a representatitve model of weather across world cities. The API data is used to graph the following relationships:
+## Summary of a homework assignment for UC Berkeley's Data Analytics Bootcamp
+* This Python code randomly selects a group of 500+ cities across the world. Then, the code collects data from the OpenWeatherMap API to create a representatitve model of weather across world cities. The API data is used to graph the following relationships:
     * Temperature (F) vs. Latitude
     * Humidity (%) vs. Latitude
     * Cloudiness (%) vs. Latitude
