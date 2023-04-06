@@ -25,7 +25,7 @@
 
 ## Files
 * The analysis includes the following files:
-    * A "WeatherPy.ipynb" Jupyter Notebook that contains the Python code for the analysis
+    * A [WeatherPy.ipynb](https://github.com/adampaganini/WeatherPy/blob/main/WeatherPy.ipynb) Jupyter Notebook that contains the Python code for the analysis
     * An "api_keys.py" Python file that contains the OpenWeatherMap API and Geoapify keys used in the analysis. (note: if downloading this analysis, the user must put her or his OpenWeatherMap API Key and/or Geoapify Key into this file in order for the "WeatherPy.ipynb" Jupyter Notebook to work properly)
-    * A "cities.csv" CSV file in the "output_data" folder that contains the CSV version of the DataFrame created in the Jupyter Notebook
-    * Four PNG files in the "Figures" folder. Each of the four files is a graph created in the analysis
+    * A [cities.csv](https://github.com/adampaganini/WeatherPy/blob/main/output_data/cities.csv) CSV file in the [output_data](https://github.com/adampaganini/WeatherPy/tree/main/output_data) folder that contains the CSV version of the DataFrame created in the Jupyter Notebook
+    * Four PNG files in the [output_data](https://github.com/adampaganini/WeatherPy/tree/main/output_data) folder. Each of the four files is a graph created in the analysis
