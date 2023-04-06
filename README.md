@@ -1,6 +1,6 @@
-## Summary of WeatherPy & VacationPy challenges for UC Berkeley's Data Analytics Bootcamp
+## Summary of Module 6 WeatherPy/VacationPy challenge for UC Berkeley's Data Analytics Bootcamp
 
-## Part 1 "WeatherPy
+## Part 1 WeatherPy
 
 * This Python code randomly selects a group of 500+ cities across the world. Then, the code collects data from the OpenWeatherMap API to create a representatitve model of weather across world cities. The API data is used to graph the following relationships:
     * Temperature (F) vs. Latitude
@@ -15,7 +15,7 @@
     * Wind speed tends to generally be betweeen 0 and 15 mph regardless of latitude
     * There is no strong relationship between latitude and humidity. however there is a slightly larger cluster of northern hemisphere cities with high humidity (above 60% humidity)
     
-## Part 2 "VacationPy
+## Part 2 VacationPy
 * This deliverable uses the weather data skills from Part 1 to plan future vacations using Jupyter notebooks, the geoViews Python library, and the Geoapify API: 
    * A map was created that displays a point for every city in the city_data_df DataFrame, where the size of the point relates to the humidity level in each city. 
    * The city_data_df DataFrame was narrowed down to find the ideal weather condition. 
